@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a junior Date Scientist.
+I'm just a Data Scientist.
 
 
 
